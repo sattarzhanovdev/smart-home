@@ -1,0 +1,16 @@
+.room{
+  .room_scroll{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    overflow-y: scroll;
+    li{
+      word-spacing: 0;
+      margin-right: 25px;
+      padding: 10px 15px;
+      background: white;
+      box-shadow: 0 0 5px #E4E4E4;
+      border-radius: 10px;
+    }
+  }
+}
